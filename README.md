@@ -29,6 +29,7 @@ The STATS button takes us to a different webpage where we can see the ranking of
 - Crazy House
 - 3 Check
 - Doubles
+
 These results have been taken from **chess.com** using their API **"https://api.chess.com/pub/leaderboards"**.
 
   ---
