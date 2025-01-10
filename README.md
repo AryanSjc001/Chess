@@ -18,6 +18,21 @@
 
 ---
 
+## Stats Button
+The STATS button takes us to a different webpage where we can see the ranking of different players based on their scores in:
+- Rapid
+- Daily
+- Daily 960
+- Blitz
+- Bullet
+- King of the Hill
+- Crazy House
+- 3 Check
+- Doubles
+These results have been taken from **chess.com** using their API **"https://api.chess.com/pub/leaderboards"**.
+
+  ---
+
 ## Demo
 https://aryansjc001.github.io/Chess/
 
