@@ -20,3 +20,14 @@
 
 ## Demo
 https://aryansjc001.github.io/Chess/
+
+---
+
+## Working of the Code
+- This game is made by using Minimax Algorithm which helps the computer to differentiate between the move is better and will lead to more point and the one which may lead to alose.
+- To do so first I assigned the different pieces on the board with their respective valid moves(in **Pieces.js**) and then applied the Minimax Algorithm(in **ComputerPlayer.js**).
+
+  - Min: Represents the opponent trying to minimize your score.
+  - Max: Represents your algorithm trying to maximize the score.
+    
+- The algorithm recursively evaluates all possible moves to a certain depth, assigns a score to each possible outcome, and chooses the move with the best score.
